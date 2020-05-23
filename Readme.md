@@ -1,6 +1,3 @@
-abcd
-
-efgh
-
-abcd
-abcddddddddd
+Automation brings in necessary agility to testing and helps it to respond faster and more effectively to changes. ... Agility requires frequent code deployments, which can also be automated. This frees testers from mundane, repetitive tasks so that they can focus more on testing
+In my past previous company test automation can be done as per clinet requirement . All depend upon client want and needs so the architech can be based according to that but the basic thing is necessary is that you have basic selenium and jmeter concepts plus programming skills is  must , if a person have good programming skills so he can be able to learn automation easily 
+Well as per my point of view automation can be done with proper programming concept not just with the hard coded values . If a person has proper programming concepts . with good rpgramming and oop concepts we can do better automation . 
